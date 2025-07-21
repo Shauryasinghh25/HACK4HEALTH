@@ -5,13 +5,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [Team](#team)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Project Overview
 HOPS (Hackathon-Oriented Processing System) is designed to extract text from various file formats (images, PDFs, and documents) and translate it into the user's native language or any preferred language. By leveraging Optical Character Recognition (OCR), Google Translator, and a powerful LLM, HOPS delivers accurate text extraction and seamless translation, making it a valuable tool for healthcare, education, and cross-lingual communication.
